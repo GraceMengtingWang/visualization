@@ -12,15 +12,19 @@
 
     First one (Please refer to the A4_Appendix.ipynb for codes and the visualization):  
     > What software did you use to create your data visualization?
+
     Python
 
     > Who is your intended audience? 
+
     The intended audience includes policymakers, urban planners, demographers, and researchers interested in understanding population trends and distributions across regions. Additionally, this visualization could be valuable for educators or students analyzing census and demographic data.
 
     > What information or message are you trying to convey with your visualization? 
+
     The visualizations aim to highlight the distribution of populations by age groups across key regions, helping to identify age-related demographic trends.
   
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+    
     Substantive: The bar chart compares population distributions by age group for clarity and ease of interpretation.
   
     Perceptual:
@@ -45,6 +49,7 @@
     - Researchers: The data could impact future studies on population dynamics or urban development.
 
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    
     Included Features:
     - Total population by region and age group for the bar chart.
     - These features were chosen for their relevance to the primary objectives of understanding distributions and trends.
@@ -52,20 +57,24 @@
     Excluded Features: Detailed gender breakdowns and fine-grained age groups were excluded to avoid overloading the visualizations and maintain focus on the broader trends.
 
     > What ‘underwater labour’ contributed to your final data visualization product?
-    Data Cleaning: Addressing missing values, duplicate entries, and ensuring consistent formats.
-    Preprocessing: Aggregating data where necessary (e.g., resolving duplicates by summing values).
-    Design Decisions: Choosing appropriate chart types, color schemes, and layouts for effective communication.
-    Coding: Writing and testing Python code to handle the data pipeline and create the visualizations.
-    Iteration: Adjusting visualizations based on feedback or identified issues to ensure clarity and accuracy.
+    
+    - Data Cleaning: Addressing missing values, duplicate entries, and ensuring consistent formats.
+    - Preprocessing: Aggregating data where necessary (e.g., resolving duplicates by summing values).
+    - Design Decisions: Choosing appropriate chart types, color schemes, and layouts for effective communication.
+    - Coding: Writing and testing Python code to handle the data pipeline and create the visualizations.
+    - Iteration: Adjusting visualizations based on feedback or identified issues to ensure clarity and accuracy.
 
     Second one (Please refer to the file "Population Trends by Gender (2023-2051.twbx)"):  
     > What software did you use to create your data visualization?
+    
     Tableau
 
     > Who is your intended audience? 
+    
     The visualization is intended for public sector officials, such as regional planners and policymakers, as well as private organizations that rely on demographic trends for decision-making. It is also valuable to educators and researchers studying population dynamics over time. By incorporating filtering, we also provide functionality for local administrators and demographers to zoom in on specific regions or genders for more focused analysis.
 
     > What information or message are you trying to convey with your visualization? 
+    
     This chart seeks to reveal population growth patterns between genders over time from 2023 to 2051. The goal is to illustrate the gendered demographic shift and highlight disparities or equalities in population growth. With the inclusion of region and gender filters, users can dive deeper into specific areas or isolate gender-based trends, making the chart adaptable to various use cases.
   
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
